@@ -1,0 +1,51 @@
+{
+  "rapid_file_count": 38,
+  "homing_source_file_count": 26,
+  "identical": [
+    "FPGA_CNC.srcs/sim_1/new/tb_bresenham_2d.vhd",
+    "FPGA_CNC.srcs/sim_1/new/tb_divisor_reloj.vhd",
+    "FPGA_CNC.srcs/sim_1/new/tb_pen_controler.vhd",
+    "FPGA_CNC.srcs/sim_1/new/tb_uart_tx.vhd",
+    "FPGA_CNC.srcs/sources_1/imports/Proyecto FPGA/pen_controller.vhd",
+    "FPGA_CNC.srcs/sources_1/new/bresenham_3d.vhd",
+    "FPGA_CNC.srcs/sources_1/new/divisor_reloj.vhd",
+    "FPGA_CNC.srcs/sources_1/new/tb6600_axis_driver.vhd",
+    "circulo.gcode",
+    "cuadrado.gcode",
+    "ejeXY_prueba.gcode",
+    "ejeX_prueba.gcode",
+    "ejeY_prueba.gcode",
+    "test_servo.gcode"
+  ],
+  "different": [
+    "FPGA_CNC.srcs/constrs_1/imports/Tutorial/Basys3_Master.xdc",
+    "FPGA_CNC.srcs/sim_1/new/tb_fsm_main.vhd",
+    "FPGA_CNC.srcs/sim_1/new/tb_top_level.vhd",
+    "FPGA_CNC.srcs/sim_1/new/tb_uart_rx.vhd",
+    "FPGA_CNC.srcs/sources_1/new/FSM_Main.vhd",
+    "FPGA_CNC.srcs/sources_1/new/top_level.vhd",
+    "FPGA_CNC.srcs/sources_1/new/uart_rx.vhd",
+    "FPGA_CNC.srcs/sources_1/new/uart_tx.vhd",
+    "FPGA_CNC.xpr",
+    "cnc-python.py",
+    "test_servo.py"
+  ],
+  "rapid_only": [
+    "BUILD_REQUIRED.txt",
+    "FPGA_CNC.srcs/sources_1/new/vga_shapes.vhd",
+    "INFORME_CAMBIOS_ES.md",
+    "PROTOCOLO_RAPIDO_ES.md",
+    "README_RAPIDO_ES.md",
+    "build_bitstream.tcl",
+    "diagnose_hw_targets.tcl",
+    "program_basys3.tcl",
+    "rectangulo_cnc_trace.gcode",
+    "rectangulo_vga_rapido.gcode",
+    "test_protocol_python.py",
+    "triangulo_cnc_trace.gcode",
+    "triangulo_vga_rapido.gcode"
+  ],
+  "homing_only": [
+    "test_completo.gcode"
+  ]
+}

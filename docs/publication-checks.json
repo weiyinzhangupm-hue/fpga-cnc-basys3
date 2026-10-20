@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-20",
+  "vivado_version": "2025.2",
+  "project_creation": {
+    "hardware-homing": {"exit_code": 0, "top": "top_level"},
+    "vga-simulation": {"exit_code": 0, "top": "top_level"}
+  },
+  "original_source_hashes_verified": 64,
+  "python_syntax": "passed",
+  "new_documentation_relative_links": "passed",
+  "vga_existing_offline_protocol_tests": "passed: 3 scenarios",
+  "vga_design_vhdl2008_analysis": "passed: 9 RTL files",
+  "full_testbench_compilation": "failed: reserved word sequence in tb_fsm_main.vhd",
+  "full_simulation": "not performed",
+  "synthesis_and_implementation": "not performed",
+  "new_hardware_test": "not performed"
+}

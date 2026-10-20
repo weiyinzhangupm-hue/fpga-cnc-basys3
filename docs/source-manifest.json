@@ -1,0 +1,258 @@
+[
+  {
+    "path": "variants/hardware-homing/circulo.gcode",
+    "sha256": "aa6cd78b67d33aef58747a7873826971fd411bcdee7e82926f04e2899f866b86"
+  },
+  {
+    "path": "variants/hardware-homing/cnc-python.py",
+    "sha256": "99f6bd32f8e87481b900f48a56bef93ca1089419b088936217adc1a39fbd4c5a"
+  },
+  {
+    "path": "variants/hardware-homing/cuadrado.gcode",
+    "sha256": "888575939ff5309b0c424a85f119aa11dff61b6c106ebc9f685e51a3881d629a"
+  },
+  {
+    "path": "variants/hardware-homing/ejeX_prueba.gcode",
+    "sha256": "92af5a493960b48b3f2dfc53b932d8d4f2235e4b79c8c9a43dacf25456e74628"
+  },
+  {
+    "path": "variants/hardware-homing/ejeXY_prueba.gcode",
+    "sha256": "76090d004d79344e1f82174c26e8bbdf6fe3bb49b843692b7ad34075cf24c37f"
+  },
+  {
+    "path": "variants/hardware-homing/ejeY_prueba.gcode",
+    "sha256": "b3d658497c61cbcd9392022be85dfed4808f85e88e4efb51cb70f0dc59997080"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/constrs_1/imports/Tutorial/Basys3_Master.xdc",
+    "sha256": "beb75ba6a8453d421707df03a24e6a25915c23df576ba374e8132fc536d232e8"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sim_1/new/tb_bresenham_2d.vhd",
+    "sha256": "62d5c38d0401c384bee866a9ba66eec1127e107adc976e100e1f91edc51e57f4"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sim_1/new/tb_divisor_reloj.vhd",
+    "sha256": "655c120268f1321b70419e3a0d11ac3cbf5c73b316846798ec9a8b234cbe84e1"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sim_1/new/tb_fsm_main.vhd",
+    "sha256": "6db58095071f6cca537f7b5997efa4eab433f9d7b547436b242d086358129e47"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sim_1/new/tb_pen_controler.vhd",
+    "sha256": "e0785d72fb2fd4363a7de076a0a73dbe711ee6226bb4622418405c03fb210c22"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sim_1/new/tb_top_level.vhd",
+    "sha256": "64d18376ee5cb98c62c678de23e9352864429e6431d5bbf56b206743694217fc"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sim_1/new/tb_uart_rx.vhd",
+    "sha256": "03c60cbebba013dc6557421eb15f1c1749b1fd7e3504e29c63099953cba8ca45"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sim_1/new/tb_uart_tx.vhd",
+    "sha256": "7b2ae3f88ca7d32ea1b99ca6adef106d5e8344a3565c356b80f3def93481ec9a"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sources_1/imports/Proyecto FPGA/pen_controller.vhd",
+    "sha256": "7caf91f65d0fb616b9b76a840e1aa9dec1aa3cbb0baecd379b19ea40732cf804"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sources_1/new/bresenham_3d.vhd",
+    "sha256": "c9b33e1bea0cd5770cf36806724812267fb685ce42c10a26550fe53c0ac1f68e"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sources_1/new/divisor_reloj.vhd",
+    "sha256": "a1060298c8941f5b6b3f46b086630d3b2e535533bc89baa261102954946bd714"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sources_1/new/FSM_Main.vhd",
+    "sha256": "6a53c691629475086ffdb8f921f8ab7709f12327f75698e5355d08cfcde45885"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sources_1/new/tb6600_axis_driver.vhd",
+    "sha256": "42d10c744610e1aeb9ce3878ab64a6712d76ac186c46c716adcfa72507cf6a81"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sources_1/new/top_level.vhd",
+    "sha256": "6be9baa699cad66e0ff5d23a06ba1aedf35c0600cdfc498ef25afa1f05047c65"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sources_1/new/uart_rx.vhd",
+    "sha256": "d1e6872e1ca76018be801879ae73a5f44f21afb77eb1c7750b4d2da07b4bf077"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.srcs/sources_1/new/uart_tx.vhd",
+    "sha256": "3a65cfcd1601cab946e8417e37174d06c8dd402f0b98e75f600ca9a5278650d4"
+  },
+  {
+    "path": "variants/hardware-homing/FPGA_CNC.xpr",
+    "sha256": "8e17f1c5a537a1de9ed68238bcd342e594d78b5631614759bddf7e1a18f0f646"
+  },
+  {
+    "path": "variants/hardware-homing/test_completo.gcode",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "variants/hardware-homing/test_servo.gcode",
+    "sha256": "e903a26251b51fcf9764d56141e991999fcf31b612ff3447a2c6265659d2bdc2"
+  },
+  {
+    "path": "variants/hardware-homing/test_servo.py",
+    "sha256": "2e30881886bf1959d10a2787952e0ffda81681642507499ac015ee5b57fadaa0"
+  },
+  {
+    "path": "variants/vga-simulation/build_bitstream.tcl",
+    "sha256": "c460d1d96297ca042accf9e3e43007c48507ef18515b1717ac9c908999521a53"
+  },
+  {
+    "path": "variants/vga-simulation/BUILD_REQUIRED.txt",
+    "sha256": "a60c6379db2841db9cd902178e35c8140bb6d7c50257f9a3b2b4eb066f6f794c"
+  },
+  {
+    "path": "variants/vga-simulation/circulo.gcode",
+    "sha256": "aa6cd78b67d33aef58747a7873826971fd411bcdee7e82926f04e2899f866b86"
+  },
+  {
+    "path": "variants/vga-simulation/cnc-python.py",
+    "sha256": "422e79aa2e71359df37b554a1183bbe0870c39f3ce27cac9a2057daa91ac9057"
+  },
+  {
+    "path": "variants/vga-simulation/cuadrado.gcode",
+    "sha256": "888575939ff5309b0c424a85f119aa11dff61b6c106ebc9f685e51a3881d629a"
+  },
+  {
+    "path": "variants/vga-simulation/diagnose_hw_targets.tcl",
+    "sha256": "8c2c2ff22268fbf56e9073090c9599005a6e260b8577b555f9ac3fe4c0473ee3"
+  },
+  {
+    "path": "variants/vga-simulation/ejeX_prueba.gcode",
+    "sha256": "92af5a493960b48b3f2dfc53b932d8d4f2235e4b79c8c9a43dacf25456e74628"
+  },
+  {
+    "path": "variants/vga-simulation/ejeXY_prueba.gcode",
+    "sha256": "76090d004d79344e1f82174c26e8bbdf6fe3bb49b843692b7ad34075cf24c37f"
+  },
+  {
+    "path": "variants/vga-simulation/ejeY_prueba.gcode",
+    "sha256": "b3d658497c61cbcd9392022be85dfed4808f85e88e4efb51cb70f0dc59997080"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/constrs_1/imports/Tutorial/Basys3_Master.xdc",
+    "sha256": "95c77bf68d714490087496868108788f11ae09a2433bb9cd8fe7b916bc2c67d0"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sim_1/new/tb_bresenham_2d.vhd",
+    "sha256": "62d5c38d0401c384bee866a9ba66eec1127e107adc976e100e1f91edc51e57f4"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sim_1/new/tb_divisor_reloj.vhd",
+    "sha256": "655c120268f1321b70419e3a0d11ac3cbf5c73b316846798ec9a8b234cbe84e1"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sim_1/new/tb_fsm_main.vhd",
+    "sha256": "97d3a7c358d58d0759836b1e5d0586dd60cffd9d345f9fb7872a134002fc11d8"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sim_1/new/tb_pen_controler.vhd",
+    "sha256": "e0785d72fb2fd4363a7de076a0a73dbe711ee6226bb4622418405c03fb210c22"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sim_1/new/tb_top_level.vhd",
+    "sha256": "899ee03462c8abddb5c2642f90b01e7662a8b7cdf3b7a7ccb91d98d5d686aea6"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sim_1/new/tb_uart_rx.vhd",
+    "sha256": "e5652cf9ccdbfe2946071e7416b01b37c3b3c41fa9beb7fac71eaf57c5d0e54c"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sim_1/new/tb_uart_tx.vhd",
+    "sha256": "7b2ae3f88ca7d32ea1b99ca6adef106d5e8344a3565c356b80f3def93481ec9a"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/imports/Proyecto FPGA/pen_controller.vhd",
+    "sha256": "7caf91f65d0fb616b9b76a840e1aa9dec1aa3cbb0baecd379b19ea40732cf804"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/new/bresenham_3d.vhd",
+    "sha256": "c9b33e1bea0cd5770cf36806724812267fb685ce42c10a26550fe53c0ac1f68e"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/new/divisor_reloj.vhd",
+    "sha256": "a1060298c8941f5b6b3f46b086630d3b2e535533bc89baa261102954946bd714"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/new/FSM_Main.vhd",
+    "sha256": "09fdf395b4d6f78ad5c716731b34a0ba6b2413d682df0a26136593d6af087e29"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/new/tb6600_axis_driver.vhd",
+    "sha256": "42d10c744610e1aeb9ce3878ab64a6712d76ac186c46c716adcfa72507cf6a81"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/new/top_level.vhd",
+    "sha256": "eb6dad8e4946864c2566bd1c67776a959a5cc2d8f6b7151048cbad2c0a254d7d"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/new/uart_rx.vhd",
+    "sha256": "582df3f2f5554c9a02d390adf99b6635ec52f2483f78de19ed2e910a2243ac0e"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/new/uart_tx.vhd",
+    "sha256": "16fb177770e4b22b6cdd6078ba13e4702e60af29ba7dbcc5702f7186467b5ea2"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.srcs/sources_1/new/vga_shapes.vhd",
+    "sha256": "d9e5b9a9a9174e5458fd18940ec17ee9330a46a647e044b32de238de0b6ca6b6"
+  },
+  {
+    "path": "variants/vga-simulation/FPGA_CNC.xpr",
+    "sha256": "c242309b41ab4e5d25921db7d399324e4d4c7e9e474131567c1601174082cb8f"
+  },
+  {
+    "path": "variants/vga-simulation/INFORME_CAMBIOS_ES.md",
+    "sha256": "1cf1e8e2c68fa16066813e79369fc7924e9a0ac76dbb7b0a963a28ba7f605cb5"
+  },
+  {
+    "path": "variants/vga-simulation/program_basys3.tcl",
+    "sha256": "109d0183f29d73a6d358e2641c45ad315628ade428bfa17faa978e3b9ed3085c"
+  },
+  {
+    "path": "variants/vga-simulation/PROTOCOLO_RAPIDO_ES.md",
+    "sha256": "e8e091e487875f01692275d120b6a6aaff4b70d4bcc3423a2e29f613f1007d7a"
+  },
+  {
+    "path": "variants/vga-simulation/README_RAPIDO_ES.md",
+    "sha256": "29aa9a3f5c2ada841f8c54e9534097d7dcfdc7cfac99ec98cdc9c952bb91e8a7"
+  },
+  {
+    "path": "variants/vga-simulation/rectangulo_cnc_trace.gcode",
+    "sha256": "df98a1f19cf5510c3ff50514018b596e09b1f8554e525b93d5ef68be57c7f164"
+  },
+  {
+    "path": "variants/vga-simulation/rectangulo_vga_rapido.gcode",
+    "sha256": "044c742c4a79db716195d66a909f88b02741bf68190ec1d79cf1de1b2d3efe59"
+  },
+  {
+    "path": "variants/vga-simulation/test_protocol_python.py",
+    "sha256": "5bb7b62254b1661b7f9df8e7cddfec09e96a58b8035cb2ecd2fc9e99ad04ff7f"
+  },
+  {
+    "path": "variants/vga-simulation/test_servo.gcode",
+    "sha256": "e903a26251b51fcf9764d56141e991999fcf31b612ff3447a2c6265659d2bdc2"
+  },
+  {
+    "path": "variants/vga-simulation/test_servo.py",
+    "sha256": "3d4e38c617572b65f60d6f33a1a0481a1b6368746bde9ebfbbfb2b1593f9aac7"
+  },
+  {
+    "path": "variants/vga-simulation/triangulo_cnc_trace.gcode",
+    "sha256": "dadbf37511e2af39a7629b5d9f067f11f695dfc63a312593457ab946a9084010"
+  },
+  {
+    "path": "variants/vga-simulation/triangulo_vga_rapido.gcode",
+    "sha256": "a9519d7d19058e92aaa05f395894b810922e1bab13f7323023a80c917e9b429f"
+  }
+]
