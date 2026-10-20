@@ -1,0 +1,12 @@
+Este paquete contiene fuentes VHDL y Python, no un bitstream precompilado nuevo.
+Genera el bitstream en Vivado 2025.2 o compatible:
+
+Vivado Tcl Shell:
+  cd {C:/ruta/FPGA_CNC_rapido_es_v3}
+  source build_bitstream.tcl
+  source program_basys3.tcl
+
+Salida esperada:
+  build/rapido_es_v3/top_level_cnc_rapido_es_v3.bit
+
+El bitstream nuevo es obligatorio: cnc-python.py usa el protocolo con secuencia y respuesta de 5 bytes.
