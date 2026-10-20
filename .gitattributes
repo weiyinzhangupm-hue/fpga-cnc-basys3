@@ -1,0 +1,4 @@
+# Preserve original source bytes and their published SHA-256 checksums.
+variants/** -text
+*.mp4 -text
+*.jpg -text
